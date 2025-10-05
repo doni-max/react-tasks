@@ -1,0 +1,15 @@
+
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 160px;
+    
+}
+.div2{
+    background-color: rgb(7, 18, 55);
+    border-radius: 12px;
+    display: flex;
+    padding: 10px;
+}

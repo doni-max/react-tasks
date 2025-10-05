@@ -1,0 +1,15 @@
+.content{
+    background-color: rgb(158, 155, 151);
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 6px;
+}
+
+
+.titre{
+    background-color: rgb(37, 37, 67);
+    padding: 5px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}

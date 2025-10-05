@@ -1,0 +1,15 @@
+.content{
+    background-color: rgb(94, 75, 146);
+    margin-top: 20px;
+    padding: 12px;
+    border-radius: 4px;
+}
+.num{
+    color: aliceblue;
+    border-radius: 21px;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-weight: bold;
+    background-color: rgb(76, 178, 118);
+    font-size: 21px;
+}

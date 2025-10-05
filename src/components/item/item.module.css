@@ -1,0 +1,31 @@
+.num{
+    background-color: rgb(14, 61, 136);
+    border-radius: 25px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-weight: bold;
+    color: aliceblue;
+}
+.text{
+    font-weight: bold;
+}
+.text1{
+    font-weight: bold;
+    color: green;
+    text-decoration: line-through;
+}
+.num1{
+     background-color: green;
+    border-radius: 25px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-weight: bold;
+    color: aliceblue;
+
+}
+.list:hover{
+    background-color: rgb(230, 237, 237);
+}
+.img{
+    height: 15px;
+}
